@@ -32,7 +32,7 @@ You're going to be building a 2 player CLI version of Tic Tac Toe by building a 
     └── spec_helper.rb
 ```
 
-#### Gemfilehttps://learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/oo-tic-tac-toe/oo-tic-tac-toe#
+#### Gemfilehttps://learn.co/tracks/online-software-engineering-structurhttps://learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/oo-tic-tac-toe/oo-tic-tac-toe#ed/object-oriented-ruby/oo-tic-tac-toe/oo-tic-tac-toe#
 
 These files set up some tools and gems for our project and can mostly be ignored. Make sure to run `bundle` before starting this project so that you have all the required gems.
 
